@@ -43,7 +43,7 @@ overall customer experience.</h4>
   </a>
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://user-images.githubusercontent.com/84774237/143066284-016adf0a-048b-47bf-bd02-f04a56f8024e.png"/>
+    <img alt="" src="https://img.shields.io/badge/React-React-blue"/>
   </a>
 </p>
 
