@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@shikha-max 
-durgeshsamariya
-/
-awesome-github-profile-readme-templates
-Public
-11
-821
-2.1k
-Code
-Issues
-1
-Pull requests
-2
-Actions
-Projects
-Wiki
-Security
-Insights
-awesome-github-profile-readme-templates/Candida18.md
-@Candida18
-Candida18 Update Candida18.md
-Latest commit 58a1ed1 on Jul 20
- History
- 1 contributor
-179 lines (145 sloc)  8.21 KB
-   
 
 <h1 align="center">Hi , I'm Candida Noronha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
@@ -73,8 +40,7 @@ Latest commit 58a1ed1 on Jul 20
   </a>
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="![image](https://user-images.githubusercontent.com/84774237/143066284-016adf0a-048b-47bf-bd02-f04a56f8024e.png)
-"/>
+    <img alt="Bootstrap" src="https://user-images.githubusercontent.com/84774237/143066284-016adf0a-048b-47bf-bd02-f04a56f8024e.png"/>
   </a>
 </p>
 
