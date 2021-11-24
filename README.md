@@ -9,7 +9,7 @@ Eager to support the dev team with top-notch skills at a high-volume company.
 Seeks to use first-class production design and process skills to push forward
 overall customer experience.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shikha-max&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 
 ## 🛠️ My Skills
