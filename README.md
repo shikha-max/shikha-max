@@ -95,3 +95,11 @@ overall customer experience.</h4>
 
 <hr/>
 
+
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shikha-max&show_icons=true&locale=en&layout=compact" alt="singhabhishek6" /></div>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikha-max&show_icons=true&locale=en" alt="singhabhishek6" /></p>
+<br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shikha-max&" alt="singhabhishek6" /></p>
+
+
